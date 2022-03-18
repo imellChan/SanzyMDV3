@@ -56,10 +56,10 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '18045292269' ]
+global.owner = [ '6283830815715' ]
 
 
-global.premium = ['18045292269']
+global.premium = ['6283830815715']
 
 
 global.packname = 'imellChann'
