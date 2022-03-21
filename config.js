@@ -56,16 +56,16 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '6283830815715' ]
+global.owner = [ '6283115192154' ]
 
 
-global.premium = ['6283830815715']
+global.premium = ['6283115192154']
 
 
-global.packname = 'imellChann'
+global.packname = 'I M E L'
 
 
-global.author = 'imell'
+global.author = 'Chann'
 
 
 global.sessionName = 'hisoka'
